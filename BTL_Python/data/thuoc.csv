@@ -1,0 +1,16 @@
+Mã thuốc, Tên thuốc, Loại thuốc, Đơn vị, Số lượng còn lại, Ngày hết hạn
+001, Paracetamol 500mg, Thuốc giảm đau, Viên, 100, 2025-12-31
+002, Ibuprofen 200mg, Thuốc giảm đau, Viên, 50, 2024-09-30
+003, Amoxicillin 250mg, Kháng sinh, Viên, 200, 2026-03-15
+004, Cough Syrup, Thuốc ho, Chai, 30, 2024-06-30
+005, Vitamin C 500mg, Vitamin, Viên, 150, 2025-01-01
+006, Aspirin 100mg, Thuốc giảm đau, Viên, 80, 2024-12-01
+007, Metformin 500mg, Thuốc điều trị tiểu đường, Viên, 120, 2026-07-20
+008, Cetirizine 10mg, Thuốc chống dị ứng, Viên, 90, 2025-10-10
+009, Prednisone 10mg, Thuốc chống viêm, Viên, 40, 2024-05-25
+010, Salbutamol Inhaler, Thuốc xịt hen suyễn, Bình, 15, 2024-08-15
+011, Loperamide 2mg, Thuốc chống tiêu chảy, Viên, 60, 2025-11-20
+012, Omeprazole 20mg, Thuốc chống axit dạ dày, Viên, 110, 2026-02-28
+013, Diphenhydramine 25mg, Thuốc chống dị ứng, Viên, 75, 2024-07-10
+014, Dextromethorphan Syrup, Thuốc ho, Chai, 20, 2024-11-30
+015, Loratadine 10mg, Thuốc chống dị ứng, Viên, 85, 2025-03-05
